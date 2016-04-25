@@ -1,0 +1,18 @@
+{
+  "name": "seuic-plugin-scanner",
+  "version": "0.0.1",
+  "description": "A seuic JS plugin for easy Seuic Scanning control",
+  "main": "scannerapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mphumzi-mlotywa/"
+  },
+  "keywords": [
+    "SeuicScanner"
+  ],
+  "author": "Tang Mingzhi <tangmingzhi@seuic.com>",
+  "license": "ISC"
+}

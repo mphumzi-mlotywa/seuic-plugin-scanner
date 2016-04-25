@@ -1,2 +1,18 @@
-# seuic-plugin-scanner
-A seuic JS plugin for easy Seuic Scanning control
+
+## Installation
+
+    cordova plugin add seuic-plugin-scanner
+
+## Methods
+
+    - scanner.openScanner()
+	- scanner.closeScanner()
+    - scanner.startScan()
+    - scanner.stopScan() 
+    - scanner.setDecodeCallback()
+
+
+### Supported Platforms
+
+
+- Android
